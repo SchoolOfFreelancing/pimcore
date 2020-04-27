@@ -1,4 +1,4 @@
-![Pimcore - Own the digital World](./doc/Development_Documentation/img/logo-readme.svg)
+![Pimcore - Own the World](./doc/Development_Documentation/img/logo-readme.svg)
   
   
 Pimcore - Open Source Digital Experience Platform: MDM/PIM, CDP, DAM, CMS/UX & eCommerce
